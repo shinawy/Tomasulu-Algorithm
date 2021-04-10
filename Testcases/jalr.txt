@@ -1,0 +1,7 @@
+Jalr r3
+Sw r3, 10(r0)
+Lw r7,10(r0)
+Add r4,r5,r6
+Neg r5,r6
+Ret 
+

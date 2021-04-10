@@ -1,0 +1,4 @@
+add r5,r4,r7
+neg r6,r4
+beq r0,r0,-2
+div r5,r6,r3
